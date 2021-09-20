@@ -1,0 +1,36 @@
+.em-red {
+    color: red;
+}
+
+.section1 img {
+    height: 80px;
+}
+
+.section2 ul {
+    list-style:decimal;
+}
+
+.red-border {
+    border: 1px solid red;
+    color: red;
+}
+
+.black-border {
+    border: 1px solid black;
+}
+
+table {
+    border: 1px solid black;
+}
+
+table td {
+    text-align: center;
+}
+
+.level1 {
+    list-style: decimal;
+}
+
+.level3 {
+    list-style: decimal;
+}
